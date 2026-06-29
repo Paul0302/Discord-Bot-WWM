@@ -424,7 +424,8 @@ Logged in as 你的Bot名稱
 在指定頻道輸入：
 
 ```text
-@你的機器人 abcdefghij
+@你的機器人 
+abcdefghij
 sample0000
 zzzzzzzzzz
 ```
@@ -493,7 +494,8 @@ zzzzzzzzzz
 輸入：
 
 ```text
-@你的機器人 abcdefghij
+@你的機器人 
+abcdefghij
 sample0000
 ```
 
